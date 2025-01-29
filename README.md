@@ -1,4 +1,4 @@
-From https://github.com/karpathy
+[From https://github.com/karpathy](https://github.com/karpathy/ng-video-lecture)
 
 # nanogpt-lecture
 
